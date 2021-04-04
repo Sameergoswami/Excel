@@ -10,26 +10,25 @@
 8. Created a new column named at end `Date Created`to convert the data contained within `launched_at` into Excel's date format.
 9. Create a new column named end `Date Ended`to convert the data contained within `deadline` into Excel's date format.
 
-**Created a new sheet, Funding State By Main Category**, 
+**Created a Pivot Table Funding State By Main Category on a new sheet** 
 1. Created a pivot table that analyzes **Main** worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 2. Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-**Created a new sheet, Funding State By Sub Category**, 
-1. Created a pivot table that analyzes Main sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
+**Created a Pivot Table Funding State By Sub Category on a new sheet** 
+1. Created a pivot table that analyzes **Main** sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 2. Created a stacked column pivot chart that can be filtered by country and parent-category based on the table created.
 
- 
-  ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.png)
+**Created a Pivot Table Project State By Yrs & Category on a new sheet** 
+1. Created a pivot table that analyzesthat analyzes **Main** sheet how many campaigns were successful, failed, or canceled by categories and by years/months
+2. Created a pivot chart line graph that visualizes this new table.
 
-  * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
+**Created a Pivot Table Funding Shares on a new sheet**
 
-  * Now create a pivot chart line graph that visualizes this new table.
-
-* Create a report in Microsoft Word and answer the following questions.
-
+**Created a report in Microsoft Word to answer the following questions.**
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
+
 
 ## Bonus
 
