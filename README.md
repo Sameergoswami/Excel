@@ -7,6 +7,8 @@
 5. Created two new columns, one called `Category` at Q and another called `Sub-Category` at R, by using **text to columns formula**.
 6. Formatted Colums Q, R and I by making first letter capital by using **=Proper() formula** to make the data reading more appealing. Deleated original Q, R and I columns to avoid duplication.
 7. Hide the original merged Category and Sub-Category column
+8. Created a new column named `Date Created Conversion`to convert the data contained within `launched_at` into Excel's date format.
+9. Create a new column named `Date Ended Conversion`to convert the data contained within `deadline` into Excel's date format.
 
 **Created a new sheet, Funding State By Main Category**, 
 1. Created a pivot table that analyzes **Main** worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
@@ -16,12 +18,7 @@
 1. Created a pivot table that analyzes Main sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 2. Created a stacked column pivot chart that can be filtered by country and parent-category based on the table created.
 
-* The dates stored within the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [there is a formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) that can be used to convert these timestamps to a normal date.
-
-  * Create a new column named `Date Created Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `launched_at` into Excel's date format.
-
-  * Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
-
+ 
   ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.png)
 
   * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
