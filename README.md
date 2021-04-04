@@ -1,18 +1,16 @@
-Conditional formatted to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+**Renamed Initial worksheet name to Main. This holds main data source for all other calulations and other sheets. Made the following changes in the Main sheet.**
 
-  * Create a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
+1. Conditional formatted to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+2. Created a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
+3. Used conditional formatting to fill each cell in the `Percent Funded` column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
+4. Created a new column P called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
+5. Created two new columns, one called `Category` at Q and another called `Sub-Category` at R, by using **text to columns formula**.
+6. Formatted Colums Q, R and I by making first letter capital by using **=Proper() formula** to make the data reading more appealing. Deleated original Q, R and I columns to avoid duplication.
+7. Hide the original merged Category and Sub-Category column
 
-* Use conditional formatting to fill each cell in the `Percent Funded` column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
-
-  * Create a new column P called `Average Donation` that uses a formula to uncover how much each backer for the project paid on average.
-
-  * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
-
-  ![Category Stats](Images/CategoryStats.png)
-
-  * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
-
-  * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
+**Created a new sheet, Funding State By Main Category**, 
+1. Created a pivot table that analyzes **Main** worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
+2. Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
   ![Subcategory Stats](Images/SubcategoryStats.png)
 
