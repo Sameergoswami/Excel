@@ -7,8 +7,8 @@
 5. Created two new columns, one called `Category` at Q and another called `Sub-Category` at R, by using **text to columns formula**.
 6. Formatted Colums Q, R and I by making first letter capital by using **=Proper() formula** to make the data reading more appealing. Deleated original Q, R and I columns to avoid duplication.
 7. Hide the original merged Category and Sub-Category column
-8. Created a new column named `Date Created Conversion`to convert the data contained within `launched_at` into Excel's date format.
-9. Create a new column named `Date Ended Conversion`to convert the data contained within `deadline` into Excel's date format.
+8. Created a new column named at end `Date Created`to convert the data contained within `launched_at` into Excel's date format.
+9. Create a new column named end `Date Ended`to convert the data contained within `deadline` into Excel's date format.
 
 **Created a new sheet, Funding State By Main Category**, 
 1. Created a pivot table that analyzes **Main** worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
