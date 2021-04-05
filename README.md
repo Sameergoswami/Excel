@@ -29,33 +29,30 @@
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-**G.Bonus
-**
-**1. Created a new sheet with 8 columns:
-**
-  * `Goal`
-  * `Number Successful`
-  * `Number Failed`
-  * `Number Canceled`
-  * `Total Projects`
-  * `Percentage Successful`
-  * `Percentage Failed`
-  * `Percentage Canceled`
+**G.Bonus**
+**1. Created a new sheet with 8 columns:**
+   Goal
+   Number Successful
+   Number Failed
+   Number Canceled
+   Total Project
+   Percentage Successful
+   Percentage Failed
+   Percentage Canceled
 
-**2. In the `Goal` column, create 12 rows with the following headers:**
-
-  * Less than 1000
-  * 1000 to 4999
-  * 5000 to 9999
-  * 10000 to 14999
-  * 15000 to 19999
-  * 20000 to 24999
-  * 25000 to 29999
-  * 30000 to 34999
-  * 35000 to 39999
-  * 40000 to 44999
-  * 45000 to 49999
-  * Greater than or equal to 50000
+**2. In the `Goal` column, created 12 rows with the following headers:**
+   Less than 1000
+   1000 to 4999
+   5000 to 9999
+   10000 to 14999
+   15000 to 19999
+   20000 to 24999
+   25000 to 29999
+   30000 to 34999
+   35000 to 39999
+   40000 to 44999
+   45000 to 49999
+   Greater than or equal to 50000
 
 3. Using the `COUNTIFS()` formula, counted how many successful, failed, and canceled projects were created with goals within the ranges listed above.
 
