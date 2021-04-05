@@ -28,14 +28,14 @@ Files attahced
 1. Created a pivot table that analyzesthat analyzes `Main` worksheet data how many campaigns were successful, failed, or canceled by categories and by years/months
 2. Created a pivot chart line graph that visualizes this new table.
 
-**E. Extra Work Done - Created a Pivot Table Funding Shares on a new sheet `Funding Shares`**
+**E. Extra Work Done - Created a Pivot Table `Funding Shares`**
 
 **F. Created a report in `SG_Kictstarter_Campaign_Report_032021.doc` to answer the following questions.**
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-**G. The worksheet `Bonus`to calculates the relationship between a goal's amount and its chances at success, failure, or cancellation**
+**G. The worksheet `Bonus` calculates the relationship between a goal's amount and its chances at success, failure, or cancellation**
 1. Added 8 columns:**
 * Goal
 * Number Successful
