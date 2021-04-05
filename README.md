@@ -61,17 +61,16 @@
 5. Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
 **H. Statistical Analysis**
+1. Created a new worksheet to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
 
-* **Created a new worksheet to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
+ * The mean number of backers.
 
-  * The mean number of backers.
+ * The median number of backers.
 
-  * The median number of backers.
+ * The minimum number of backers.
 
-  * The minimum number of backers.
+ * The maximum number of backers.
 
-  * The maximum number of backers.
+ * The variance of the number of backers.
 
-  * The variance of the number of backers.
-
-  * The standard deviation of the number of backers.
+ * The standard deviation of the number of backers.
