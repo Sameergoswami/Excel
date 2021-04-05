@@ -62,7 +62,7 @@
 
 **H. Statistical Analysis**
 
-* **Created a new worksheet to understand whether the mean or the median summarizes the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
+* **Created a new worksheet to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
 
   * The mean number of backers.
 
