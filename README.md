@@ -10,7 +10,7 @@
 8. Created a new column named at end `Date Created`to convert the data contained within `launched_at` into Excel's date format.
 9. Create a new column named end `Date Ended`to convert the data contained within `deadline` into Excel's date format.
 
-**B. Created a Pivot Table Funding State By Main Category on a new sheet** 
+**B. Created a Pivot Table `Funding State By Main Category`** 
 1. Created a pivot table that analyzes **Main** worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 2. Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
