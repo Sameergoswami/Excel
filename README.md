@@ -22,18 +22,17 @@
 1. Created a pivot table that analyzesthat analyzes **Main** sheet how many campaigns were successful, failed, or canceled by categories and by years/months
 2. Created a pivot chart line graph that visualizes this new table.
 
-**E. Created a Pivot Table Funding Shares on a new sheet**
+**E. Extra Work Done - Created a Pivot Table Funding Shares on a new sheet**
 
 **F. Created a report in Microsoft Word to answer the following questions.**
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-
-## Bonus
-
-* Create a new sheet with 8 columns:
-
+**G.Bonus
+**
+**1. Created a new sheet with 8 columns:
+**
   * `Goal`
   * `Number Successful`
   * `Number Failed`
@@ -43,7 +42,7 @@
   * `Percentage Failed`
   * `Percentage Canceled`
 
-* In the `Goal` column, create 12 rows with the following headers:
+**2. In the `Goal` column, create 12 rows with the following headers:**
 
   * Less than 1000
   * 1000 to 4999
@@ -58,13 +57,11 @@
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.png)
+* 3. Using the `COUNTIFS()` formula, counted how many successful, failed, and canceled projects were created with goals within the ranges listed above.
 
-* Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
+* 4. Added up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, found the percentage of projects that were successful, failed, or canceled per goal range.
 
-* Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
-
-* Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+* 5. Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
 ## Bonus Statistical Analysis
 
