@@ -31,14 +31,14 @@
 
 **G.Bonus**
 **1. Created a new sheet with 8 columns:**
-   Goal
-   Number Successful
-   Number Failed
-   Number Canceled
-   Total Project
-   Percentage Successful
-   Percentage Failed
-   Percentage Canceled
+Goal
+Number Successful
+Number Failed
+Number Canceled
+Total Project
+Percentage Successful
+Percentage Failed
+Percentage Canceled
 
 **2. In the `Goal` column, created 12 rows with the following headers:**
    Less than 1000
