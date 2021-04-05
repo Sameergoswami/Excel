@@ -20,7 +20,7 @@ Files attahced
 1. Created a pivot table that analyzes `Main` worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 2. Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-**C. Created a `Pivot Table Funding State By Sub Category`** 
+**C. WorkSheet `Pivot Table Funding State By Sub Category`** 
 1. Created a pivot table that analyzes `Main` sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 2. Created a stacked column pivot chart that can be filtered by country and parent-category based on the table created.
 
