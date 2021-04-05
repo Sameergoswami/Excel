@@ -30,7 +30,7 @@
 3. What are some other possible tables and/or graphs that we could create?
 
 **G.Created new work sheet to calculate the relationship between a goal's amount and its chances at success, failure, or cancellation **
-**1. Created a new sheet with 8 columns:**
+1. Created a new sheet with 8 columns:**
 * Goal
 * Number Successful
 * Number Failed
@@ -40,7 +40,7 @@
 * Percentage Failed
 * Percentage Canceled
 
-**2. In the Goal column, created 12 rows with the following headers:**
+2. In the Goal column, created 12 rows with the following headers:**
 * Less than 1000
 * 1000 to 4999
 * 5000 to 9999
