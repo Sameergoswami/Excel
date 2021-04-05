@@ -24,11 +24,11 @@ Files attahced
 1. Created a pivot table that analyzes `Main` worksheet data to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 2. Created a stacked column pivot chart that can be filtered by country and parent-category based on the table created.
 
-**D. Created a `Pivot Table Project State By Yrs & Category`** 
+**D. Worksheet `Pivot Table Project State By Yrs & Category`** 
 1. Created a pivot table that analyzesthat analyzes `Main` worksheet data how many campaigns were successful, failed, or canceled by categories and by years/months
 2. Created a pivot chart line graph that visualizes this new table.
 
-**E. Extra Work Done - Created a Pivot Table `Funding Shares`**
+**E.  `Extra Work Done - Created a Pivot Table Funding Shares`**
 
 **F. Created a report in `SG_Kictstarter_Campaign_Report_032021.doc` to answer the following questions.**
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
@@ -67,7 +67,7 @@ Files attahced
 5. Created a line chart that graphs the relationship between `A goal's amount and its chances at success, failure, or cancellation`.
 
 **H. Statistical Analysis**
-1. Created a new worksheet to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
+1. The worksheet `Bonus-Statistical Analysis` aims to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
 
  * The mean number of backers.
 
