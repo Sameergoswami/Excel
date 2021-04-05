@@ -17,15 +17,15 @@ Files attahced
 9. Create a new column named end `Date Ended`to convert the data contained within `deadline` into Excel's date format.
 
 **B. Worksheet `Funding State By Main Category`** 
-1. Created a pivot table that analyzes `Main` worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
+1. Created a pivot table that analyzes `Main` worksheet data to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 2. Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
 **C. WorkSheet `Pivot Table Funding State By Sub Category`** 
-1. Created a pivot table that analyzes `Main` sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
+1. Created a pivot table that analyzes `Main` worksheet data to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 2. Created a stacked column pivot chart that can be filtered by country and parent-category based on the table created.
 
 **D. Created a `Pivot Table Project State By Yrs & Category`** 
-1. Created a pivot table that analyzesthat analyzes `Main` sheet how many campaigns were successful, failed, or canceled by categories and by years/months
+1. Created a pivot table that analyzesthat analyzes `Main` worksheet data how many campaigns were successful, failed, or canceled by categories and by years/months
 2. Created a pivot chart line graph that visualizes this new table.
 
 **E. Extra Work Done - Created a Pivot Table Funding Shares on a new sheet `Funding Shares`**
