@@ -31,8 +31,8 @@
 
 **G.Bonus**
 **1. Created a new sheet with 8 columns:**
-*Goal
-*Number Successful
+* Goal
+* Number Successful
 Number Failed
 Number Canceled
 Total Project
