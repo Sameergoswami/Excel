@@ -29,7 +29,7 @@
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-**G.Bonus**
+**G.Created new work sheet to calculate the relationship between a goal's amount and its chances at success, failure, or cancellation **
 **1. Created a new sheet with 8 columns:**
 * Goal
 * Number Successful
@@ -60,17 +60,9 @@
 
 5. Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
-## Bonus Statistical Analysis
+**H. Statistical Analysis**
 
-If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
-
-For those looking for an additional challenge, you will evaluate the number of backers of successful and unsuccessful campaigns by creating **your own** summary statistics table.
-
-* Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
-
-  ![Images/backers01.png](Images/backers01.png)
-
-* Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+* **Created a new worksheet to understand whether the mean or the median summarizes the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
 
   * The mean number of backers.
 
@@ -83,7 +75,3 @@ For those looking for an additional challenge, you will evaluate the number of b
   * The variance of the number of backers.
 
   * The standard deviation of the number of backers.
-
-* Use your data to determine whether the mean or the median summarizes the data more meaningfully.
-
-* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
