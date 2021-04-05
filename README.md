@@ -67,18 +67,7 @@ Files attahced
 5. Created a line chart that graphs the relationship between `A goal's amount and its chances at success, failure, or cancellation`.
 
 **H. Statistical Analysis**
-1. The worksheet `Bonus-Statistical Analysis` aims to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns.**
-
- * The mean number of backers.
-
- * The median number of backers.
-
- * The minimum number of backers.
-
- * The maximum number of backers.
-
- * The variance of the number of backers.
-
- * The standard deviation of the number of backers.
+1. The worksheet `Bonus-Statistical Analysis` aims to understand whether the mean or the median summarize the data more meaningfully and to determine if there is more variability with successful or unsuccessful campaigns by comparing the Means, Medians, Min and Max, Variences, and Standard Deviations of Sucessful and Unsuccessful Campaigns .**
 
 Feedback on the statistical analysis on whether the mean or the median summarizes the data more meaningfully and if there is more variability with successful or unsuccessful campaigns. Does that make sense? Why or why not? has registered in the attached word file  `SG_Kictstarter_Campaign_Report_032021`
+
