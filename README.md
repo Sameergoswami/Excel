@@ -29,7 +29,7 @@
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-**G.Created new work sheet to calculate the relationship between a goal's amount and its chances at success, failure, or cancellation **
+**G.Created new work sheet to calculate the relationship between a goal's amount and its chances at success, failure, or cancellation**
 1. Created a new sheet with 8 columns:**
 * Goal
 * Number Successful
