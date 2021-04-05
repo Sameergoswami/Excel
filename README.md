@@ -1,3 +1,9 @@
+Files attahced
+1.  `SG_Excel_HW_032021`
+      `Worksheets`
+     `Main,Funding State By Main Category, Funding State By Sub Category, Project State By Yrs & Category, Bonus, Bonus- Statistical Analysis, Extar-     Funding Share`
+2. `SG_Kictstarter_Campaign_Report_032021`
+
 **A. The worksheet named  `Main` holds the main data source for all other calulations and other sheets. Made the following changes in the Main sheet.**
 
 1. Conditional formatted to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
@@ -74,3 +80,5 @@
  * The variance of the number of backers.
 
  * The standard deviation of the number of backers.
+
+Feedback on the statistical analysis on whether the mean or the median summarizes the data more meaningfully and if there is more variability with successful or unsuccessful campaigns. Does that make sense? Why or why not? has registered in the attached word file  `SG_Kictstarter_Campaign_Report_032021`
