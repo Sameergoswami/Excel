@@ -1,4 +1,4 @@
-**A. Renamed Initial worksheet name to Main. This holds main data source for all other calulations and other sheets. Made the following changes in the Main sheet.**
+**A. The worksheet named  `Main` holds the main data source for all other calulations and other sheets. Made the following changes in the Main sheet.**
 
 1. Conditional formatted to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 2. Created a new column O called `Percent Funded` that uses a formula to uncover how much money a campaign made to reach its initial goal.
