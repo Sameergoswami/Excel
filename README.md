@@ -1,6 +1,3 @@
-
-1. [#Files Attached](htpps://github.com/Sameergoswami/Excel#files-attached)
-
 Files Attached
 1.  `SG_Excel_HW_032021.xlsx`
       `Worksheets`
